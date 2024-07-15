@@ -70,11 +70,17 @@
     max-width: 850px;
     margin: 0 auto;
     text-align: center;
+    margin-top: 100px;
     margin-bottom: 50px;
 }
 .banner-title{
     font-weight: 700;
     font-size: 4rem;
+    margin-bottom: 20px;
+}
+.banner-description{
+    margin-bottom: 30px;
+    max-width: 862px;
 }
 .banner-image{
     width: 100%;  
