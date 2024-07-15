@@ -190,6 +190,18 @@ flex-direction: column;
 .sponsors-company-image-container img{
 filter: grayscale(100%);
 }
+/* Footer-section-styles */
+.footer-section{
+    max-width: 1440px;
+    height: 100px;
+    margin: 0 auto;
+    background-color:  #FFF4E7;
+    margin-top: 130px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+}
 
 /* Responsive Media Query */
 
